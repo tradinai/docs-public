@@ -4,7 +4,7 @@ plase any tradin ai public doc over here
 
 ## Engineer
 
-Our major programming langugas are:
+TradinAI major programming langugas are:
 
 1. Python
 2. Java
