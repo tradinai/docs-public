@@ -11,7 +11,12 @@ plase any tradin ai public doc over here
 * [Amazon Web Services](https://aws.amazon.com/)
 
 ### AI Onboarding
+
 * [Huggieface](https://huggingface.co/)
 * [OpenAI](https://openai.com/)
 * [Google AI](https://ai.google/)
 * [LangChain](https://www.langchain.com/)
+
+### Python
+
+* [Anaconda](https://anaconda.org/)
