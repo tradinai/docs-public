@@ -4,6 +4,12 @@ plase any tradin ai public doc over here
 
 ## Engineer
 
+Our major programming langugas are:
+
+1. Python
+2. Java
+3. JavaScript (TypeScript, Node)
+
 ### General Onbording
 
 * [Google Style Guide](https://google.github.io/styleguide/)
