@@ -14,3 +14,4 @@ plase any tradin ai public doc over here
 * [Huggieface](https://huggingface.co/)
 * [OpenAI](https://openai.com/)
 * [Google AI](https://ai.google/)
+* [LangChain](https://www.langchain.com/)
