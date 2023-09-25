@@ -8,3 +8,4 @@ plase any tradin ai public doc over here
 
 * [Google Style Guide](https://google.github.io/styleguide/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Amazon Web Services](https://aws.amazon.com/)
