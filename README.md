@@ -13,6 +13,7 @@ TradinAI major programming langugas are:
 ### General Onbording
 
 * [Google Style Guide](https://google.github.io/styleguide/)
+* [Pettier](https://prettier.io/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Amazon Web Services](https://aws.amazon.com/)
 
