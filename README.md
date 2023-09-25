@@ -12,3 +12,5 @@ plase any tradin ai public doc over here
 
 ### AI Onboarding
 * [Huggieface](https://huggingface.co/)
+* [OpenAI](https://openai.com/)
+* [Google AI](https://ai.google/)
