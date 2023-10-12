@@ -27,4 +27,4 @@ TradinAI major programming langugas are:
 ### Python
 
 * [Anaconda](https://anaconda.org/)
-* https://medium.com/@chandanonline4u/how-to-deploy-a-python-fastapi-application-to-an-aws-ubuntu-server-837d5ca4fabb
+* [How to Deploy a Python FastAPI application to an AWS Ubuntu server](https://medium.com/@chandanonline4u/how-to-deploy-a-python-fastapi-application-to-an-aws-ubuntu-server-837d5ca4fabb)
