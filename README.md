@@ -1,4 +1,4 @@
-# docs-public
+# harvard-docs
 
 plase any tradin ai public doc over here
 
